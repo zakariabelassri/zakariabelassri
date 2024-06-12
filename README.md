@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Zakaria
+# I'm Zakaria
 
-## 🌐 About Me
+### About Me
 
-I'm a frontend developer with a keen interest in building functional web applications. Currently, I'm diving deep into the world of **Vue.js** to enhance my skills and explore the possibilities of modern web development.
+Frontend web developer with a keen interest in building functional web applications. Currently, I'm diving deep into the world of **Vue.js** to enhance my skills and explore the possibilities of modern web development.
 
 #
 
-## 🔧 Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" align="left" style="padding-right:5px;"/>
@@ -23,21 +23,17 @@ I'm a frontend developer with a keen interest in building functional web applica
 
 #
 
-## 📚 Learning Journey
+### Learning Journey
 
-I'm constantly learning and improving my skills. Here are some of the key areas I'm focusing on:
+Constantly learning and improving my skills. Here are some of the key areas I'm focusing on:
 
 - **Vue.js**: Building interactive user interfaces and single-page applications (SPAs).
 - **TailwindCSS**: Creating responsive and modern UI components.
 
-- #
-
-## 🚀 Future Goals
-
-- Deepen my understanding of **JavaScript** frameworks by building more complex applications.
-- Contribute to open-source projects and collaborate with other developers.
-- Explore backend technologies to become a full-stack developer.
-
 #
 
-Feel free to check out my repositories and leave any feedback or suggestions. I'm always open to new opportunities and collaborations!
+### Future Goals
+
+- Deepen my understanding of **JavaScript** frameworks by building more applications.
+- Contribute to open-source projects and collaborate with other developers.
+- Explore backend technologies to become a full-stack developer.
