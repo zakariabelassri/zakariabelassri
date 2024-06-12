@@ -4,6 +4,8 @@
 
 I'm a frontend developer with a keen interest in building functional web applications. Currently, I'm diving deep into the world of **Vue.js** to enhance my skills and explore the possibilities of modern web development.
 
+#
+
 ## 🔧 Technologies & Tools
 
 <p align="left">
@@ -19,6 +21,8 @@ I'm a frontend developer with a keen interest in building functional web applica
 </p>
 <br />
 
+#
+
 ## 📚 Learning Journey
 
 I'm constantly learning and improving my skills. Here are some of the key areas I'm focusing on:
@@ -26,10 +30,14 @@ I'm constantly learning and improving my skills. Here are some of the key areas 
 - **Vue.js**: Building interactive user interfaces and single-page applications (SPAs).
 - **TailwindCSS**: Creating responsive and modern UI components.
 
+- #
+
 ## 🚀 Future Goals
 
 - Deepen my understanding of **JavaScript** frameworks by building more complex applications.
 - Contribute to open-source projects and collaborate with other developers.
 - Explore backend technologies to become a full-stack developer.
+
+#
 
 Feel free to check out my repositories and leave any feedback or suggestions. I'm always open to new opportunities and collaborations!
