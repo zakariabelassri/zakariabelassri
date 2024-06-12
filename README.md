@@ -6,11 +6,19 @@ I'm a passionate frontend developer with a keen interest in building beautiful a
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks**: Vue.js, React
-- **Styling**: TailwindCSS
-- **Version Control**: Git, GitHub
-- **Build Tools**: Webpack, Vite
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vue-dot-js.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/webpack.svg" alt="Webpack" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" alt="Vite" width="40" height="40"/>
+</p>
+
 
 ## 📚 Learning Journey
 
