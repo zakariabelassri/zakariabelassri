@@ -6,7 +6,7 @@ My name is Zakaria, I am a frontend web developer with a keen interest in buildi
 
 ### Technologies & Tools
 
-<p align="left">
+<p align="left" style="margin:25px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" align="left" style="padding-right:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" align="left" style="padding-right:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="left" style="padding-right:5px;"/>
