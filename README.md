@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Zakaria]
+# 👋 Hi, I'm Zakaria
 
 ## 🌐 About Me
 
@@ -29,7 +29,7 @@ I'm constantly learning and improving my skills. Here are some of the key areas 
 ## 📫 Get in Touch
 
 - **GitHub**: [zakariabelassri](https://github.com/zakariabelassri)
-- **LinkedIn**: [Zakaria](https://www.linkedin.com/in/zakariabelassri)
+- **LinkedIn**: [Zakaria Belassri](https://www.linkedin.com/in/zakariabelassri)
 
 Feel free to check out my repositories and leave any feedback or suggestions. I'm always open to new opportunities and collaborations!
 
