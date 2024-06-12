@@ -1,8 +1,6 @@
-# I'm Zakaria
-
 ### About Me
 
-Frontend web developer with a keen interest in building functional web applications. Currently, I'm diving deep into the world of **Vue.js** to enhance my skills and explore the possibilities of modern web development.
+My name is Zakaria, I am a frontend web developer with a keen interest in building functional web applications. Currently, I'm diving deep into the world of **Vue.js** to enhance my skills and explore the possibilities of modern web development.
 
 #
 
