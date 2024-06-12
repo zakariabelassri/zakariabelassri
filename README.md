@@ -7,17 +7,16 @@ I'm a passionate frontend developer with a keen interest in building beautiful a
 ## 🔧 Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" width="40" height="40" style="color: #E34F26"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3" width="40" height="40" style="color: #1572B6"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="color: #F7DF1E"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="color: #4FC08D"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React" width="40" height="40" style="color: #61DAFB"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" style="color: #06B6D4"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="Git" width="40" height="40" style="color: #F05032"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" width="40" height="40" style="color: #181717"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/webpack.svg" alt="Webpack" width="40" height="40" style="color: #8DD6F9"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" alt="Vite" width="40" height="40" style="color: #646CFF"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="Linux" width="40" height="40" style="color: #FCC624"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ## 📚 Learning Journey
