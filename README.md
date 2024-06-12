@@ -10,7 +10,7 @@ I'm a passionate frontend developer with a keen interest in building beautiful a
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" width="40" height="40" style="color: #E34F26"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3" width="40" height="40" style="color: #1572B6"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="color: #F7DF1E"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vue-dot-js.svg" alt="Vue.js" width="40" height="40" style="color: #4FC08D"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="color: #4FC08D"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React" width="40" height="40" style="color: #61DAFB"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" style="color: #06B6D4"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="Git" width="40" height="40" style="color: #F05032"/>
