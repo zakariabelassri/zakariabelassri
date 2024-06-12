@@ -17,6 +17,7 @@ I'm a frontend developer with a keen interest in building functional web applica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40" align="left" style="padding-right:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" align="left"/>
 </p>
+<br />
 
 ## 📚 Learning Journey
 
