@@ -1,4 +1,4 @@
-## About Me
+### About Me
 
 My name is Zachariah, I am a self-taught frontend developer.  
 
