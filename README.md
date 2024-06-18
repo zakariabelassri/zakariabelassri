@@ -1,10 +1,16 @@
-### About Me
+#### About Me
 
-My name is Zakaria, I am a frontend web developer with a keen interest in building functional web applications. Currently, I'm diving deep into the world of **Vue.js** to enhance my skills and explore the possibilities of modern web development.
+My name is Zachariah, I am a self-taught frontend developer.
 
 #
 
-### Technologies & Tools
+#### Learning Journey
+
+Currently, I'm learning _Vue.js_ and _TailwindCSS_.
+
+#
+
+#### Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30" align="left" style="padding-right:5px;"/>
@@ -21,17 +27,8 @@ My name is Zakaria, I am a frontend web developer with a keen interest in buildi
 
 #
 
-### Learning Journey
+#### Future Goals
 
-Constantly learning and improving my skills. Here are some of the key areas I'm focusing on:
-
-- **Vue.js**: Building interactive user interfaces and single-page applications (SPAs).
-- **TailwindCSS**: Creating responsive and modern UI components.
-
-#
-
-### Future Goals
-
-- Deepen my understanding of **JavaScript** frameworks by building more applications.
-- Contribute to open-source projects and collaborate with other developers.
-- Explore backend technologies to become a full-stack developer.
+Deepen my understanding of _JavaScript_ frameworks.  
+Explore backend technologies to become a full-stack developer.  
+Contribute to open-source projects and collaborate with other developers.
