@@ -1,14 +1,14 @@
-### About Me
+#### About Me
 
 My name is Zachariah, I am a self-taught frontend developer.  
 
-### Current Work
+#### Current Work
 
 Learn _Vue.js_ and _TailwindCSS_ and expand my knowledge of _JavaScript_ frameworks.  
 Contribute to open-source projects and collaborate with other developers.  
 Explore backend technologies to become a full-stack developer.  
 
-### Technologies & Tools  
+#### Technologies & Tools  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="25" align="left" style="padding-right:1px;"/>
