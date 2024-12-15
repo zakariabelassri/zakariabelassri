@@ -1,10 +1,5 @@
-## Hello, World!
+### Hello, World!
 
-### Name:
-Zakaria  
-### Role:
-Frontend Developer  
-### Tech Stack  
-**Languages:** JavaScript, TypeScript, HTML/CSS  
-**UI frameworks:** React, Vue.js, Tailwind CSS  
-**Tools:** Git, Vite, Linux  
+**Name:** Zakaria  
+**Role:** Frontend Developer  
+**Tech Stack:** HTML/CSS,JavaScript, TypeScript, React, Vue.js, Tailwind CSS, Vite, Git, Linux  
