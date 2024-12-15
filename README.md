@@ -1,3 +1,12 @@
 ### Hello, World!
 
-I'm Zakaria, a passionate **Frontend Developer** specializing in creating dynamic web applications. With a good foundation in **HTML**, **CSS**, and **JavaScript**, I leverage modern frameworks like **Vue.js** and utility-first CSS with **Tailwind CSS** to build responsive and user-friendly interfaces.
+##Name: Zachariah
+##Role: Frontend Developer
+##Bio: Passionate frontend developer specializing in building web applications using Vue.js, Tailwind CSS, Vite, and Inertia.js. Always learning and contributing to open-source projects.
+##Skills and Technologies
+**Languages:** JavaScript, HTML, CSS
+**Frameworks:** Vue.js, Inertia.js
+**Tools:** Tailwind CSS, Vite
+##Contact
+**Email:** [zakariabelassri@gmail.com]
+**LinkedIn:** [https://www.linkedin.com/in/zakariabelassri/]
